@@ -61,6 +61,3 @@ text_to_morse()
 # The result for each letter is joined by a space
 result = ' '.join(output_list)
 print(f'The Morse Code of {ans} is {result}')
-
-print("Wow! You're amazin!")
-print("Wow3")
